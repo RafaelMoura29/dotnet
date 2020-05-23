@@ -1,0 +1,13 @@
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.exe
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.deps.json
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.json
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.dev.json
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.dll
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csprojAssemblyReference.cache
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfo.cs
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.dll
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+C:\Users\rafae\dev\dotnet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.genruntimeconfig.cache
