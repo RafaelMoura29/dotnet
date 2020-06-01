@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPaj692d07RGGTaOIn/OqQobjkg1Z4VKxHZM2eZBSlAxqcjuGFjND0QUkuAX/QDiBYqMhJGClMOeqRhSRcq2JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\dev\\dotnet\\curso-dotnet-udemy\\API_Empty\\API_Empty\\API_Empty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0-preview5-19227-01\\microsoft.aspnetcore.jsonpatch.3.0.0-preview5-19227-01.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0-preview5-19227-01\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0-preview5-19227-01.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.csharp\\4.6.0-preview5.19224.8\\microsoft.csharp.4.6.0-preview5.19224.8.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
