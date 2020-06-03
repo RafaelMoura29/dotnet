@@ -1,0 +1,13 @@
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.exe
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.deps.json
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.runtimeconfig.json
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.runtimeconfig.dev.json
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.dll
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\bin\Debug\netcoreapp3.1\HelloDotNet.pdb
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.csprojAssemblyReference.cache
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.AssemblyInfoInputs.cache
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.AssemblyInfo.cs
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.csproj.CoreCompileInputs.cache
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.dll
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.pdb
+C:\Users\rafae\dev\dotnet\csharp\HelloDotNet\HelloDotNet\obj\Debug\netcoreapp3.1\HelloDotNet.genruntimeconfig.cache
