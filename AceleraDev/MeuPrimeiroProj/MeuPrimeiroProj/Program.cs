@@ -8,7 +8,7 @@ namespace MeuPrimeiroProj
         {
             string sobrenome;
 
-            string nome = "Rafael";
+            string nome = "Rafael"; 
             bool EProgramador = true;
             int idade = 20;
             sobrenome = "Moura";
