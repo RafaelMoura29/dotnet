@@ -6,6 +6,13 @@ namespace MeuPrimeiroProj
     {
         static void Main(string[] args)
         {
+            string sobrenome;
+
+            string nome = "Rafael";
+            bool EProgramador = true;
+            int idade = 20;
+            sobrenome = "Moura";
+
             // Operadores aritmeticos
 
             var soma = 10 + 5;
