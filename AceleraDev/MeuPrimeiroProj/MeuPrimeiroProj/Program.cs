@@ -52,6 +52,21 @@ namespace MeuPrimeiroProj
 
             Console.WriteLine(falsoNegado);
             Console.WriteLine(verdadeiroNegado);
+
+            // Conversão implícita
+
+            int varInt = 20;
+            long varLong = varInt;
+
+            float varFloat = 10.5f;
+            double varDouble = varFloat;
+
+            char varChar = 'T';
+            int varInt1 = varChar;
+
+            string meuTexto = $"Conversão implicita de variavel inteira {varInt} e variavel float {varFloat}";
+
+            Console.WriteLine(meuTexto);
         }
     }
 }
