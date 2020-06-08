@@ -94,7 +94,7 @@ namespace CondicionaisELoops
 
             sobrenomes.ForEach(sobrenome =>
                 Console.WriteLine($"Sobrenome por foreach1: {sobrenome}"));
-            Console.WriteLine();
+            Console.WriteLine(); 
 
             int x = sobrenomes.Count - 1;
             while (x >= 0)

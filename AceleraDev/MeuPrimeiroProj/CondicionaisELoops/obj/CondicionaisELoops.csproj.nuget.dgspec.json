@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\rafae\\dev\\dotnet\\AceleraDev\\MeuPrimeiroProj\\CondicionaisELoops\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
