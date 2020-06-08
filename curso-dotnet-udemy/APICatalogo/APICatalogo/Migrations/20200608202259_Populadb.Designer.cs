@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace APICatalogo.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20200608184712_Inicial")]
-    partial class Inicial
+    [Migration("20200608202259_Populadb")]
+    partial class Populadb
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -25,12 +25,14 @@ namespace APICatalogo.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    b.Property<int>("ImagemUrl")
-                        .HasColumnType("int")
+                    b.Property<string>("ImagemUrl")
+                        .IsRequired()
+                        .HasColumnType("varchar(300) CHARACTER SET utf8mb4")
                         .HasMaxLength(300);
 
-                    b.Property<int>("Nome")
-                        .HasColumnType("int")
+                    b.Property<string>("Nome")
+                        .IsRequired()
+                        .HasColumnType("varchar(80) CHARACTER SET utf8mb4")
                         .HasMaxLength(80);
 
                     b.HasKey("CategoriaId");
@@ -60,8 +62,8 @@ namespace APICatalogo.Migrations
 
                     b.Property<string>("ImagemUrl")
                         .IsRequired()
-                        .HasColumnType("varchar(500) CHARACTER SET utf8mb4")
-                        .HasMaxLength(500);
+                        .HasColumnType("varchar(300) CHARACTER SET utf8mb4")
+                        .HasMaxLength(300);
 
                     b.Property<string>("Nome")
                         .IsRequired()

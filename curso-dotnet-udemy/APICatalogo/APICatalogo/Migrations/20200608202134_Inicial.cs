@@ -14,8 +14,8 @@ namespace APICatalogo.Migrations
                 {
                     CategoriaId = table.Column<int>(nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    Nome = table.Column<int>(maxLength: 80, nullable: false),
-                    ImagemUrl = table.Column<int>(maxLength: 300, nullable: false)
+                    Nome = table.Column<string>(maxLength: 80, nullable: false),
+                    ImagemUrl = table.Column<string>(maxLength: 300, nullable: false)
                 },
                 constraints: table =>
                 {
@@ -31,7 +31,7 @@ namespace APICatalogo.Migrations
                     Nome = table.Column<string>(maxLength: 80, nullable: false),
                     Descricao = table.Column<string>(maxLength: 300, nullable: false),
                     Preco = table.Column<decimal>(nullable: false),
-                    ImagemUrl = table.Column<string>(maxLength: 500, nullable: false),
+                    ImagemUrl = table.Column<string>(maxLength: 300, nullable: false),
                     Estoque = table.Column<float>(nullable: false),
                     DataCadastro = table.Column<DateTime>(nullable: false),
                     CategoriaId = table.Column<int>(nullable: false)
