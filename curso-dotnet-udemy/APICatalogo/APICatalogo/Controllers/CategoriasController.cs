@@ -17,6 +17,12 @@ namespace ApiCatalogo.Controllers
             _context = contexto;
         }
 
+        [HttpGet("produtos")]
+        public ActionResult<IEnumerable<Categoria>> GetCategoriasProdutos()
+        {
+            return _context.Categorias.Include(x => x.Produtos).ToList();
+        }
+
         [HttpGet]
         public ActionResult<IEnumerable<Categoria>> Get()
         {
@@ -37,7 +43,7 @@ namespace ApiCatalogo.Controllers
         }
 
         [HttpPost]
-        public ActionResult Post([FromBody] Categoria categoria)
+        public ActionResult Post([FromBody]Categoria categoria)
         {
             //if(!ModelState.IsValid)
             //{
