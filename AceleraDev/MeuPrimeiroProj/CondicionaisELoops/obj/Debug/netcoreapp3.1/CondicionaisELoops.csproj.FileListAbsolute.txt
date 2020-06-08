@@ -1,0 +1,13 @@
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.exe
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.deps.json
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.runtimeconfig.json
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.runtimeconfig.dev.json
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.dll
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\bin\Debug\netcoreapp3.1\CondicionaisELoops.pdb
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.csprojAssemblyReference.cache
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.AssemblyInfoInputs.cache
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.AssemblyInfo.cs
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.csproj.CoreCompileInputs.cache
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.dll
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.pdb
+C:\Users\rafae\dev\dotnet\AceleraDev\MeuPrimeiroProj\CondicionaisELoops\obj\Debug\netcoreapp3.1\CondicionaisELoops.genruntimeconfig.cache

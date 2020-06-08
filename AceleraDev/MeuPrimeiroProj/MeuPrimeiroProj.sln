@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuPrimeiroProj", "MeuPrimeiroProj\MeuPrimeiroProj.csproj", "{CD87A968-CB7D-42BA-BC06-4D8C6DAFCE6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeuPrimeiroProj", "MeuPrimeiroProj\MeuPrimeiroProj.csproj", "{CD87A968-CB7D-42BA-BC06-4D8C6DAFCE6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionaisELoops", "CondicionaisELoops\CondicionaisELoops.csproj", "{56D8BB54-A0DE-4FAE-A2AC-39C7C02584ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CD87A968-CB7D-42BA-BC06-4D8C6DAFCE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD87A968-CB7D-42BA-BC06-4D8C6DAFCE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD87A968-CB7D-42BA-BC06-4D8C6DAFCE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D8BB54-A0DE-4FAE-A2AC-39C7C02584ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D8BB54-A0DE-4FAE-A2AC-39C7C02584ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D8BB54-A0DE-4FAE-A2AC-39C7C02584ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D8BB54-A0DE-4FAE-A2AC-39C7C02584ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
