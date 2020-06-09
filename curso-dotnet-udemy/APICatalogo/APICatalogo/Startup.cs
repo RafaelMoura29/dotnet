@@ -1,3 +1,4 @@
+using ApiCatalogo.Services;
 using APICatalogo.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -21,6 +22,9 @@ namespace APICatalogo
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<AppDbContext>(options => options.UseMySql(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddTransient<IMeuServico, MeuServico>();
+
             services.AddControllers()
                     .AddNewtonsoftJson(options =>
                     {

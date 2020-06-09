@@ -1,7 +1,9 @@
-﻿using APICatalogo.Context;
+﻿using ApiCatalogo.Services;
+using APICatalogo.Context;
 using APICatalogo.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -12,10 +14,30 @@ namespace ApiCatalogo.Controllers
     public class CategoriasController : ControllerBase
     {
         private readonly AppDbContext _context;
-        public CategoriasController(AppDbContext contexto)
+        private readonly IConfiguration _configuration;
+        public CategoriasController(AppDbContext contexto,
+            IConfiguration config)
         {
             _context = contexto;
+            _configuration = config;
         }
+
+        [HttpGet("saudacao/{nome}")]
+        public ActionResult<string> GetSaudacao([FromServices] IMeuServico meuservico,
+            string nome)
+        {
+            return meuservico.Saudacao(nome);
+        }
+
+
+        //[HttpGet("autor")]
+        //public string GetAutor()
+        //{
+        //    var autor = _configuration["autor"];
+        //    var conexao = _configuration["ConnectionStrings:DefaultConnection"];
+
+        //    return $"Autor : {autor}  Conexao: {conexao}";
+        //}
 
         [HttpGet("produtos")]
         public ActionResult<IEnumerable<Categoria>> GetCategoriasProdutos()
@@ -43,7 +65,7 @@ namespace ApiCatalogo.Controllers
         }
 
         [HttpPost]
-        public ActionResult Post([FromBody]Categoria categoria)
+        public ActionResult Post([FromBody] Categoria categoria)
         {
             //if(!ModelState.IsValid)
             //{
